@@ -1,0 +1,4 @@
+#donot upload this folder
+node_modules
+#or this folder
+dist
